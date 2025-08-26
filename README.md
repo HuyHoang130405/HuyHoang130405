@@ -25,12 +25,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyHoang130405&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://yourname-trophy.vercel.app/?username=HuyHoang130405&theme=radical&margin-w=10&column=6" />
-</p>
-
-## 📜 Random Dev Quote
-> "*From an artistic standpoint, the best software comes from the realm of intuition.*"  
-> — Bob Carr
