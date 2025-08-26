@@ -28,7 +28,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuyHoang130405&theme=radical&margin-w=10&column=6" alt="GitHub Trophies" />
+  <img src="https://yourname-trophy.vercel.app/?username=HuyHoang130405&theme=radical&margin-w=10&column=6" />
 </p>
 
 ## 📜 Random Dev Quote
